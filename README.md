@@ -3,7 +3,8 @@ In Clustering, we have multiple clusters representing a group of similar datapoi
 will return. For K-means clustering specifically, it uses the center point of each of these clusters (also called a centroid) and then calculates the distance to the data point. The smallest of these values
 is the predicted cluster.
 
-![image](https://github.com/user-attachments/assets/6d57c73b-ec4b-4ac5-a604-1dd4424b94d1)
+![image](https://github.com/user-attachments/assets/14a99ced-9593-493b-9bf0-d9e8d5eda03c)
+
 
 
 

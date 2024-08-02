@@ -9,7 +9,16 @@ The sampledata.csv file contains 80 rows of random files comprising 30 Windows e
 adjust the trained model.
 
 Here is the snippet of the data:
+
+
 ![image](https://github.com/user-attachments/assets/01c1c68e-e03f-43c1-bbfc-944597b0d589)
+
+
+
+
+
+
+
 
 
 
